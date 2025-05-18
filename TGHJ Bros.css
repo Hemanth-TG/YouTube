@@ -452,7 +452,7 @@ header::after {
     background-color: rgb(255, 0, 127);
     padding: 1.3rem 2.3rem;
     border-radius: 5px;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
     animation: cyan-glow 2s ease-in-out infinite alternate;
     display: flex;
