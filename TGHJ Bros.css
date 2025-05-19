@@ -345,6 +345,7 @@ header::after {
 
 .games {
     padding-top: 50px;
+    padding-bottom: 50px;
     background-image: url(Images/Gaming\ Keyboard\ and\ Mouse.png);
     background-position: center;
     position: relative;
